@@ -37,19 +37,18 @@ file and the charter differ, the charter wins.
 
 ## Payment
 
-- Payouts ride runx governed payment rails: USDC on Base over x402 first (the
-  transaction hash prints to the public ledger), fiat fallback (PayID, PayPal,
-  Wise), Stripe SPT planned.
+- Payouts are arranged and completed at
+  [gofrantic.com](https://gofrantic.com). The live rail is the one named in the
+  venue flow for that bounty; fiat fallback is allowed, and governed USDC/card
+  rails are enabled only when the venue marks them live.
 - The board funds real bounties as they are posted, the founder's backlog plus
   vendor-funded work. No caps and no fixed ceiling; the public number that
   matters is the seeded-versus-organic ratio.
 - One payout identity maps to one operator. Several GitHub accounts paying to
   the same wallet, PayID, PayPal, or Wise identity count as one operator, so the
   ledger and the study count real people, not sockpuppets.
-- Payment is arranged and completed entirely at
-  [gofrantic.com](https://gofrantic.com). Payment details are never collected,
-  exchanged, or posted on GitHub. Details given at the venue are used once and
-  not retained.
+- Payment details are never collected, exchanged, or posted on GitHub. Details
+  given at the venue are used once and not retained.
 - The public ledger records the bounty, operator handle, amount, payment
   reference, and receipt link when available.
 - You are a contractor handling your own taxes. USDC is still income, and
