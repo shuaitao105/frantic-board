@@ -69,7 +69,8 @@ const before = readme;
 if (stats && typeof stats === "object" && "bountiesOpen" in stats) {
   readme = replaceSection(readme, MARKERS.vitals, renderVitals(stats));
 }
-const ledgerBlock = ledger ? renderLedger(ledger.events ?? ledger) : null;
+const ledgerEvents = ledger?.ledger?.events ?? ledger?.events ?? ledger;
+const ledgerBlock = renderLedger(ledgerEvents);
 if (ledgerBlock) {
   readme = replaceSection(readme, MARKERS.ledger, ledgerBlock);
 }
