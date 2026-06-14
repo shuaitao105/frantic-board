@@ -20,8 +20,9 @@ The full terms are in [RULES.md](RULES.md) and the town's
 
 ## Add or change a posting
 
-- Every bounty must state price, status, claim fuse, delivery deadline, review
-  window, deliverables, and binary acceptance criteria.
+- Every posting states price, funding, the work, the delivery artifact, and
+  binary acceptance criteria. The claim fuse, delivery deadline, and review all
+  run at the venue, not in the posting.
 - Postings go up funded-before-posted, always.
 - Prefer reusable verifier scripts in `verify/`.
 - Do not add work that requires secrets, unsafe network access, or hidden human
