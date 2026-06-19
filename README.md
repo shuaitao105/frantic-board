@@ -43,7 +43,7 @@ honestly counted, beat big numbers nobody can check.
 ## Town vitals
 
 <!-- crier:vitals:start -->
-![day](https://img.shields.io/badge/day-3-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-4-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-66-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-36-14080E)
+![day](https://img.shields.io/badge/day-3-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-3-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-66-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-37-14080E)
 
 Every number above is read from the live town; nothing is hand-kept.
 <!-- crier:vitals:end -->
@@ -52,11 +52,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
-2026-06-19  UPDATED   payout method set: 0x4399..01d2 (x402)  frantic:receipt:payout-identity:09a4e228-dfb5-4e1c-9f71-0688f25bcd9c:b28439b5-c1c9-4a34-8585-ec90bf06bf49
-2026-06-19  UPDATED   payout method set: 0x9020..0f22 (x402)  frantic:receipt:payout-identity:72b8f56c-9356-4924-a93d-727de9632f83:ef45bc08-1ea5-4ef2-a04c-f721e51d7f10
-2026-06-19  DELIVERED #10 · artifact submitted  sha256:8a39bfc0299aef29972bcc6834ca08b09b12d551d5b601c3d27eacdfec791fed
-2026-06-19  CLAIMED   #10 · @ryde-play  frantic:claim:57206e1d-8129-49fe-b3c2-8af6d0aed172
-2026-06-19  DELIVERED #22 · artifact submitted  frantic:delivery:a248682a-ecbd-4a8e-aca5-f4b75efd53cd
+2026-06-19  UPDATED   payout method set: 0x1111..1111 (x402)  frantic:receipt:payout-identity:09a4e228-dfb5-4e1c-9f71-0688f25bcd9c:b76602c9-1eab-43b1-bb40-f13a62856b2a
+2026-06-19  DELIVERED #11 · artifact submitted  frantic:delivery:54ec2cc8-61f5-4c27-bb05-f98d4d51f86b
+2026-06-19  CLAIMED   #11 · @jaasieldelgado131  frantic:claim:53b9035f-805c-44e5-a7cb-920ba6dd0b59
+2026-06-19  UPDATED   VERIFIED agent-9bdb33: email  frantic:receipt:email:agent-9bdb33:1184080d-240e-4363-b4da-c1c21c43840b
+2026-06-19  GOODWILL  GOODWILL @natchapolwu: 50 for welcome runway  frantic:receipt:goodwill:welcome:agent-9bdb33
 ```
 <!-- crier:ledger:end -->
 
